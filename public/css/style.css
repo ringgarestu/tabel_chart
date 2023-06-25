@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Belanosima&family=Noto+Serif:wght@200&family=Roboto&display=swap");
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.nav-item {
+    list-style-type: none;
+    background-color: #c2c0c0;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    font-family: Belanosima;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.nav-item a {
+    text-decoration: none;
+    color: black;
+}
+.nav-item img {
+    width: 30px;
+}
+
+.judul {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: "Roboto";
+}
+
+.chart {
+    width: 500px;
+}

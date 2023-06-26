@@ -3,15 +3,6 @@
 @section('title', 'Home')
 
 @section('content')
-<!-- <header class="navbar-container">
-    <ul class="nav justify-content-center">
-        <li class="nav-item">
-            <img src="https://cdn-icons-png.flaticon.com/128/2311/2311387.png" alt="" />
-            <a href="#tankiair">Tanki Minyak</a>
-        </li>
-    </ul>
-</header> -->
-
 <article>
     <div class="judul">
         <h3>Tabel Tanki Minyak</h3>
